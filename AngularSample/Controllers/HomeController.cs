@@ -29,7 +29,7 @@ namespace AngularSample.Controllers
 
         public ActionResult Address()
         {
-            ViewBag.Message = "Your Address page.";
+            ViewBag.Message = "Your Address1 is updated on this action method page.";
 
             return View();
         }
